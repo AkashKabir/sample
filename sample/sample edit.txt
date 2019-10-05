@@ -3,3 +3,4 @@ changed this file i have.
 conflict will arrive now.
 now remote branch is ahead
 i have changed the master branch now.
+new changes appears on the master branch now ... hello what is this
