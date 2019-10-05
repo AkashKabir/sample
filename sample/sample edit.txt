@@ -2,3 +2,4 @@ hello world i have edited this.
 changed this file i have.
 conflict will arrive now.
 now remote branch is ahead
+i have changed the master branch now.
